@@ -1,0 +1,6 @@
+[submodule "datasets"]
+	path = datasets
+	url = https://github.com/kh-mo/datasets.git
+[submodule "anomalydetection"]
+	path = anomalydetection
+	url = https://github.com/kh-mo/anomalydetection.git
